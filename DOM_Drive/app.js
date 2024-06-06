@@ -28,3 +28,4 @@ while(confirmation){
     confirmation = confirm("Do you want to play again");
     
 }
+
